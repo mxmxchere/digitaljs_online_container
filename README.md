@@ -13,6 +13,7 @@ The rest of this readme assumes `podman` is available on the system.
 ## Build
 
 ```sh
+git submodule update --init
 podman build .
 ```
 
