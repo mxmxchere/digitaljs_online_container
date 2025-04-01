@@ -1,0 +1,3 @@
+[submodule "digitaljs_online"]
+	path = digitaljs_online
+	url = git@github.com:onsdagens/digitaljs_online.git
